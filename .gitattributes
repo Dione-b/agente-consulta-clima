@@ -1,0 +1,11 @@
+# Normaliza finais de linha: LF no repositório e no checkout (Linux/macOS/Windows).
+* text=auto eol=lf
+
+# Binários (não converter)
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.pdf binary
+*.zip binary
